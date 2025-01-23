@@ -1,10 +1,8 @@
-Here's a `README.md` file for your project, which includes a description, setup instructions, and steps to run the project. You can customize it as needed.
 
----
 
 ### **README.md**
 
-```markdown
+
 # Manufacturing Prediction API
 
 This project is a FastAPI-based application designed to predict manufacturing downtime using machine learning. It includes endpoints for uploading data, training a model, and making predictions.
