@@ -1,5 +1,3 @@
-
-
 ### **README.md**
 
 
@@ -71,25 +69,6 @@ This project is a FastAPI-based application designed to predict manufacturing do
 ---
 
 #### **How to Run**
-
-Replace this section:
-```markdown
-## How to Run
-
-1. **Start the FastAPI server:**
-   ```bash
-   uvicorn main:app --reload
-   ```
-
-2. **Access the API:**
-   Open your browser and navigate to `http://127.0.0.1:8000`.
-
-3. **Explore API Documentation:**
-   The interactive Swagger UI is available at `http://127.0.0.1:8000/docs`.
-
-
-
-## How to Run
 
 ### Option 1: Run Locally
 
